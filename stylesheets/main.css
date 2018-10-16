@@ -1,0 +1,50 @@
+div {
+  background-color: orange;
+}
+
+body {
+  color: white
+}
+
+.grid_1 {
+  display: grid;
+  grid-template-columns: 2fr 1fr 2fr;
+}
+.grid_2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.box_4 {
+  background-color: blue;
+  text-align: center;
+}
+.box_5 {
+  background-color: red;
+  text-align: center;
+}
+.box_6 {
+  background-color: orangered;
+  text-align: center;
+}
+.box_7 {
+  background-color: blue;
+  text-align: center;
+}
+
+.box_8 {
+  background-color: mediumseagreen;
+  text-align: center;
+}
+.box_9 {
+  background-color: orangered;
+  text-align: center;
+}
+
+#box_1 {
+  background-color: mediumseagreen;
+}
+#box_2 {
+  text-align: center;
+  background-color: orange;
+}
